@@ -1,0 +1,18 @@
+h1 {
+    width: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+}
+ul {
+    background-color:darkgrey;
+}
+.modification {
+    background-color: chartreuse;
+}
+body {
+  font-size: 16px;
+}
