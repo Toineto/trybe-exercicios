@@ -2,7 +2,7 @@
 
 :rotating_light: If you are not a \_portuguese speaker, you can find the \_english version of this document [here](#english-version---trybe).
 
-Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por [Adson Gomes Oliveira](https://www.linkedin.com/in/adson-gomes-oliveira/) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
+Este repositório contêm todas as atividades de aprendizagem que estão sendo desenvolvidas por [Antônio Augusto](https://www.linkedin.com/in/antonioaugustobn/) enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket: (2021-2022).
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
