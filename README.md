@@ -130,61 +130,61 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 
 :ballot_box_with_check: 11-1: \_Componentes com estado e eventos
 
-:black_large_square: 12-2: \_Formulários no React
+:ballot_box_with_check: 12-2: \_Formulários no React
 
-:black_large_square: 12-3: \_Projeto - Movie Cards Library Stateful
+:ballot_box_with_check: 12-3: \_Projeto - Movie Cards Library Stateful
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-:black_large_square: 13-1: \_Ciclo de vida de componentes
+:ballot_box_with_check: 13-1: \_Ciclo de vida de componentes
 
-:black_large_square: 13-2: \_React Router
+:ballot_box_with_check: 13-2: \_React Router
 
-:black_large_square: 13-3: \_Projeto - Movie Cards Library CRUD
+:ballot_box_with_check: 13-3: \_Projeto - Movie Cards Library CRUD
 
 ### Bloco 13: Metodologias ágeis
 
-:black_large_square: 14-1: \_Metodologias ágeis
+:ballot_box_with_check: 14-1: \_Metodologias ágeis
 
-:black_large_square: 14-2: \_Projeto - Frontend Online Store
+:ballot_box_with_check: 14-2: \_Projeto - Frontend Online Store
 
 ### Bloco 14: Testes automatizados com React Testing Library
 
-:black_large_square: 15-1: \_RTL - Primeiros Passos
+:ballot_box_with_check: 15-1: \_RTL - Primeiros Passos
 
-:black_large_square: 15-2: \_RTL - Mocks e Inputs
+:ballot_box_with_check: 15-2: \_RTL - Mocks e Inputs
 
-:black_large_square: 15-2: \_RTL: Testando com React Router
+:ballot_box_with_check: 15-2: \_RTL: Testando com React Router
 
-:black_large_square: 15-3: \_Projeto - Testes em React
+:ballot_box_with_check: 15-3: \_Projeto - Testes em React
 
 ### Bloco 15: Introdução ao Redux
 
-:black_large_square: 16-1: \_Introdução ao Redux - O estado global da aplicação
+:ballot_box_with_check: 16-1: \_Introdução ao Redux - O estado global da aplicação
 
-:black_large_square: 16-2: \_Usando o Redux no React
+:ballot_box_with_check: 16-2: \_Usando o Redux no React
 
-:black_large_square: 16-3: \_Usando o Redux no React - Prática
+:ballot_box_with_check: 16-3: \_Usando o Redux no React - Prática
 
-:black_large_square: 16-4: \_Usando o Redux no React - Actions Assíncronas
+:ballot_box_with_check: 16-4: \_Usando o Redux no React - Actions Assíncronas
 
-:black_large_square: 16-5: \_Testes em React-Redux
+:ballot_box_with_check: 16-5: \_Testes em React-Redux
 
-:black_large_square:16-6: \_Projeto - Trybe Wallet
+:ballot_box_with_check:16-6: \_Projeto - Trybe Wallet
 
 ### Bloco 16: Projeto React
 
-:black_large_square: 17-1: \_Projeto - Jogo de Trivia
+:ballot_box_with_check: 17-1: \_Projeto - Jogo de Trivia
 
 ### Bloco 17: Context API & Reack Hooks
 
-:black_large_square: 18-1: \_Context API do React
+:ballot_box_with_check: 18-1: \_Context API do React
 
-:black_large_square: 18-2: \_React Hooks - useState e useContext
+:ballot_box_with_check: 18-2: \_React Hooks - useState e useContext
 
-:black_large_square: 18-3: \_React Hooks - useEffect e Hooks customizados
+:ballot_box_with_check: 18-3: \_React Hooks - useEffect e Hooks customizados
 
-:black_large_square: 18-4: \_Projeto - StarWars Datatable com Context API e Hooks
+:ballot_box_with_check: 18-4: \_Projeto - StarWars Datatable com Context API e Hooks
 
 ### Bloco 18: Projeto Final de Front-end
 
